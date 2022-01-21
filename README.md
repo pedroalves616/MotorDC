@@ -1,8 +1,13 @@
 # MotorDC
 controle de velocidade de um motor dc.
 
-##Componentes
+
+#Componentes
+
 Motor dc , transistor,  resistores  , push button e Arduino Uno.
 
-###Ambiente
+
+
+#Ambiente
+
 Simulador simulide , IDE Arduino .
